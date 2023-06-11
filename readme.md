@@ -1,0 +1,1 @@
+Proyecto de Landing Page, basado en una tienda ficticia de cómics, donde se ofrece servicio de boletín y noticias del mundo del cómic. Creado en HTML y CSS, por Alejandro Garrido.
